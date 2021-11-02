@@ -29,6 +29,7 @@ class VideoCallConference : Fragment(), JitsiMeetActivityInterface {
 
         val currentUser = auth.currentUser
         if (currentUser != null){
+
             Toast.makeText(requireActivity(),"....Welcome....",Toast.LENGTH_SHORT)
         }
         else{
