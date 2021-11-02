@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443424425141",
+    "project_id": "videocallapp-e90a8",
+    "storage_bucket": "videocallapp-e90a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443424425141:android:9820bff175595f0b332afc",
+        "android_client_info": {
+          "package_name": "com.fourteen.digital.videocallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443424425141-lfn687bb0bug2veei4gknddqa8fkgsmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTqOMbim2R8m676Yo2GHsxWPx2-SjYcbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443424425141-lfn687bb0bug2veei4gknddqa8fkgsmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
